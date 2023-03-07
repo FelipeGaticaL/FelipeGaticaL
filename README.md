@@ -1,8 +1,11 @@
 ## Hola!
 
-### Soy felipe gatica
+### Soy Felipe Gatica
 
-Soy un profesional reconvertido con experiencia en finanzas, auditoria y control de gestión, en busca de oportunidades laborales en el mundo del desarrollo IT. Me defino como una persona proactiva, autodidacta y responsable, en la que el aprendizaje de nuevos conocimientos ha sido un pilar y una constante en mi vida. Actualmente estoy buscando una posición que me permita continuar mi desarrollo profesional en el campo de la programación y la tecnología. 
+Un profesional reconvertido con experiencia en finanzas, auditoria y control de gestión, en busca de oportunidades laborales en el mundo del desarrollo IT. Me defino como una persona proactiva, autodidacta y responsable, en la que el aprendizaje de nuevos conocimientos ha sido un pilar y una constante en mi vida. Actualmente estoy buscando una posición que me permita continuar mi desarrollo profesional en el campo de la programación y la tecnología. 
+Mi proyecto más destacado fue en Devsafio, en donde me desempeñé como full stack. 
+
+### Mi portafolio se puede ver en: https://felipegatica.com/ :robot:
 
 ## Destrezas y habilidades:
 
@@ -14,7 +17,7 @@ Soy un profesional reconvertido con experiencia en finanzas, auditoria y control
 - Fuerte ética de trabajo y compromiso con la calidad del trabajo.
 
 
-## Tecnologías || Lenguajes || Herramientas || Frameworks que conozco:
+### Tecnologías || Lenguajes || Herramientas || Frameworks que conozco:
 
 - Javascript
 - React
