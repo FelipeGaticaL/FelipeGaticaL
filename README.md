@@ -26,8 +26,9 @@ Puedes ver el proyecto deploy:
 
 ### Tecnologías || Lenguajes || Herramientas || Frameworks que conozco:
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/>
+<p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="javascript" width="65" height="65"/>
+</p>
 - Javascript
 - React
 - Sequelize (ORM)
