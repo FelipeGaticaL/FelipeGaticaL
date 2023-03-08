@@ -35,6 +35,8 @@ Puedes ver el proyecto deploy:
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="javascript" width="65" height="65"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="javascript" width="65" height="65"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" alt="javascript" width="65" height="65"/>
+
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="javascript" width="65" height="65"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="javascript" width="65" height="65"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="javascript" width="65" height="65"/>
