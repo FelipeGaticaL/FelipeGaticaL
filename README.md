@@ -22,7 +22,7 @@ Puedes ver el proyecto deploy:
 - Gran atención al detalle y habilidad para resolver problemas de forma creativa.
 - Fuerte ética de trabajo y compromiso con la calidad del trabajo.
 
-Más sobre mis experiencias previas en: <a href="https://www.linkedin.com/in/felipegaticalopez90/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="javascript" width="65" height="65"/> </a>
+Más sobre mis experiencias previas en: <a href="https://www.linkedin.com/in/felipegaticalopez90/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="javascript" width="20" height="20"/> </a>
 
 ### Tecnologías || Lenguajes || Herramientas || Frameworks que conozco:
 
@@ -36,17 +36,19 @@ Más sobre mis experiencias previas en: <a href="https://www.linkedin.com/in/fel
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="javascript" width="65" height="65"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" alt="javascript" width="65" height="65"/>
 
+</p>
+
+<p align="left">
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="javascript" width="65" height="65"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="javascript" width="65" height="65"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="javascript" width="65" height="65"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="javascript" width="65" height="65"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="javascript" width="65" height="65"/>
+</p>
 
 Javascript || Jira || React || Sequelize (ORM) || PostgreSQL || Bootstrap || Tailwind || Express || Express handlebars || Firebase || Swagger
 Docker || Node || CSS || HTML
-
-</p>
 
 ## Contacto:
 
