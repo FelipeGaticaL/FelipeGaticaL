@@ -22,7 +22,7 @@ Puedes ver el proyecto deploy:
 - Gran atención al detalle y habilidad para resolver problemas de forma creativa.
 - Fuerte ética de trabajo y compromiso con la calidad del trabajo.
 
-
+Más sobre mis experiencias previas en: <a href="https://www.linkedin.com/in/felipegaticalopez90/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="javascript" width="65" height="65"/> </a>
 
 ### Tecnologías || Lenguajes || Herramientas || Frameworks que conozco:
 
@@ -50,4 +50,4 @@ Docker || Node || CSS || HTML
 
 ## Contacto:
 
-pgatilo20@gmail.com
+:mailbox: pgatilo20@gmail.com
