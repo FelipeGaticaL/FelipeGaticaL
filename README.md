@@ -28,21 +28,23 @@ Puedes ver el proyecto deploy:
 
 <p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="javascript" width="65" height="65"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="javascript" width="65" height="65"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original-wordmark.svg" alt="javascript" width="65" height="65"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" alt="javascript" width="65" height="65"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="javascript" width="65" height="65"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="javascript" width="65" height="65"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="javascript" width="65" height="65"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" alt="javascript" width="65" height="65"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="javascript" width="65" height="65"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="javascript" width="65" height="65"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="javascript" width="65" height="65"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="javascript" width="65" height="65"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="javascript" width="65" height="65"/>
+
+Javascript || Jira || React || Sequelize (ORM) || PostgreSQL || Bootstrap || Tailwind || Express || Express handlebars || Firebase || Swagger
+Docker || Node || CSS || HTML
+
 </p>
-- Javascript
-- React
-- Sequelize (ORM)
-- PostgreSQL
-- Bootstrap
-- Tailwind
-- Express
-- Express handlebars
-- Firebase
-- Swagger
-- Docker
-- Node
-- CSS
-- HTML
 
 ## Contacto:
 
