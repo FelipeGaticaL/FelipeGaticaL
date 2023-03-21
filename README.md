@@ -54,7 +54,8 @@ Docker || Node || CSS || HTML
 
 :mailbox: pgatilo20@gmail.com
 
-### Articulo escrito:
+---
+## Articulo escrito:
 
 **Estructura de datos**
 
