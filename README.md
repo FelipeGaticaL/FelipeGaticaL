@@ -53,3 +53,10 @@ Docker || Node || CSS || HTML
 ## Contacto:
 
 :mailbox: pgatilo20@gmail.com
+
+### Articulo escrito:
+
+**Estructura de datos**
+
+- https://www.linkedin.com/pulse/estructura-de-datos-felipe-gatica-lopez/?trk=public_profile-settings_article_view
+- https://github.com/FelipeGaticaL/estructura-de-datos
