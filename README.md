@@ -2,18 +2,34 @@
 
 ### Soy Felipe Gatica :vulcan_salute:
 
-Un profesional reconvertido con experiencia en finanzas, auditoria y control de gestión, en busca de oportunidades laborales en el mundo del desarrollo IT. Me defino como una persona proactiva, autodidacta y responsable, en la que el aprendizaje de nuevos conocimientos ha sido un pilar y una constante en mi vida. Actualmente estoy buscando una posición que me permita continuar mi desarrollo profesional en el campo de la programación y la tecnología. 
+Un profesional reconvertido con experiencia en finanzas, auditoria y control de gestión, en busca de oportunidades laborales en el mundo del desarrollo IT. Me defino como una persona proactiva, autodidacta y responsable, en la que el aprendizaje de nuevos conocimientos ha sido un pilar y una constante en mi vida. 
 
-- Mi proyecto más destacado fue en Devsafio, en donde me desempeñé como full stack. :eye_speech_bubble:
+Cuento con experiencia en el desarrollo Full Stack y enfoque en soluciones a gran escala, integrando tecnologías front-end, back-end e infraestructura en entornos distribuidos. Conocimientos de Python, TypeScript (Angular), JavaScript y SQL, con énfasis en el desarrollo de servicios paralelos, scraping masivo, automatización y orquestación de datos. Capacidad para optimizar flujos de trabajo, mejorar la eficiencia del procesamiento de datos y lograr una comunicación efectiva entre módulos, microservicios y microfrontends. Experiencia en la integración de herramientas CI/CD, despliegues en entornos cloud (AWS), y manejo de colas de mensajería (para intercambio asíncrono entre sistemas), contenedores Docker y servicios de streaming (FFmpeg), así como también en mensajería orientada a usuarios finales (WhatsApp) y correo electrónico.
 
-Puedes ver el proyecto deploy:
+- Actualmente trabajo en izimedia como Developer y Tech Lead
 
-- Front: https://devsafio-front.vercel.app/ || https://github.com/FelipeGaticaL/Devsafio-Front
-- Back: https://devsafio-back.fly.dev/      || https://github.com/FelipeGaticaL/DEVsafio-Backend
+### Mi perfil actual:
 
-### Mi portafolio se puede ver en: https://felipegatica.com/ :robot:
+Responsable de liderar infraestructura y desarrollo tecnológico, gestionando equipos, servicios, costos y documentación, asegurando buenas prácticas, calidad de código, integración interárea y alineación técnica con los objetivos del negocio.
 
-## Destrezas y habilidades:
+- Conocimientos y áreas:
+
+Scraping y Automatización: Desarrollo de flujos multi-hilo, extracción HTML/CSS, network logs, APIs ocultas. Integración con Selenium y Python para scraping autenticado. Orquestación con RabbitMQ y workers paralelos, asegurando integridad de datos y optimizando rendimiento.
+
+Microfrontends & Frontend SPA-CSR/SSR: Angular + TypeScript para microfronts interconectados, alta reactividad, manejo de estado y configuración dinámica. Implementación de SSR para mejorar SEO y experiencia de usuario.
+
+Backend & APIs: Diseño de APIs GraphQL/REST optimizadas, consultas SQL masivas con batch processing, exportaciones a Excel vía streaming. Mejora de performance en queries, y coordinación con colas de mensajería.
+
+Métricas, Reportería y Visualización: Dashboards con ApexChart, filtrado dinámico, sincronización de datos a través de observables, promesas y procesos asíncronos. Personalización de templates, envío de correos masivos y notificaciones WhatsApp. Solución problemas Outlook a través de embeddings de imagenes.
+
+Infraestructura y CI/CD: Despliegue en AWS, manejo de entornos staging con JWT en cookies, segmentación de usuarios vía CloudFront, CI/CD con GitHub Actions, reconfiguración de buckets S3, optimización de costes y rendimiento.
+
+IA y Preprocesos: Integración de GPT para mejorar transcripciones, flujos complejos desde front a workers Python. Procesamiento nocturno y bajo demanda, manteniendo coherencia y tiempos de respuesta adecuados.
+
+
+### Mi pagina de mi perfil la puedes ver en: https://felipegatica.com/ :robot:
+
+## Otras Destrezas y habilidades:
 
 - Experiencia en sistemas ERP de diverso tipo.
 - Manejo, normalización y análisis de alto volumen de datos.
@@ -25,6 +41,7 @@ Puedes ver el proyecto deploy:
 Más sobre mis experiencias previas en: <a href="https://www.linkedin.com/in/felipegaticalopez90/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="javascript" width="20" height="20"/> </a>
 
 ### Tecnologías || Lenguajes || Herramientas || Frameworks que conozco:
+
 
 <p align="left"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="65" height="65"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" alt="javascript" width="65" height="65"/>
@@ -48,7 +65,7 @@ Más sobre mis experiencias previas en: <a href="https://www.linkedin.com/in/fel
 </p>
 
 Javascript || Jira || React || Sequelize (ORM) || PostgreSQL || Bootstrap || Tailwind || Express || Express handlebars || Firebase || Swagger
-Docker || Node || CSS || HTML
+Docker || Node || CSS || HTML || Angular || TypeScript || GraphQL || Linux || Python || AWS || RabbitMQ
 
 ## Contacto:
 
