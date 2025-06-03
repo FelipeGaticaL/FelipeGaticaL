@@ -2,7 +2,7 @@
 
 ### Soy Felipe Gatica :vulcan_salute:
 
-Un profesional reconvertido con experiencia en finanzas, auditoria y control de gestión, en busca de oportunidades laborales en el mundo del desarrollo IT. Me defino como una persona proactiva, autodidacta y responsable, en la que el aprendizaje de nuevos conocimientos ha sido un pilar y una constante en mi vida. 
+Un profesional reconvertido con experiencia previas en finanzas, auditoria y control de gestión. Me defino como una persona proactiva, autodidacta y responsable, en la que el aprendizaje de nuevos conocimientos ha sido un pilar y una constante en mi vida. 
 
 Cuento con experiencia en el desarrollo Full Stack y enfoque en soluciones a gran escala, integrando tecnologías front-end, back-end e infraestructura en entornos distribuidos. Conocimientos de Python, TypeScript (Angular), JavaScript y SQL, con énfasis en el desarrollo de servicios paralelos, scraping masivo, automatización y orquestación de datos. Capacidad para optimizar flujos de trabajo, mejorar la eficiencia del procesamiento de datos y lograr una comunicación efectiva entre módulos, microservicios y microfrontends. Experiencia en la integración de herramientas CI/CD, despliegues en entornos cloud (AWS), y manejo de colas de mensajería (para intercambio asíncrono entre sistemas), contenedores Docker y servicios de streaming (FFmpeg), así como también en mensajería orientada a usuarios finales (WhatsApp) y correo electrónico.
 
